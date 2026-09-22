@@ -1,44 +1,39 @@
 # Content <!-- omit in toc -->
 
-- [Star History](#star-history)
 - [Algorithms](#algorithms)
-  - [Books](#books)
-  - [Coding practice](#coding-practice)
-  - [Guides](#guides)
-  - [Misc](#misc)
+	- [Books](#books)
+	- [Coding practice](#coding-practice)
+	- [Guides](#guides)
+	- [Misc](#misc)
 - [Guides](#guides-1)
-  - [Articles](#articles)
-  - [Books](#books-1)
-  - [Courses](#courses)
-  - [Misc](#misc-1)
-  - [Mock interviews](#mock-interviews)
-  - [Q\&A](#qa)
-  - [Sites](#sites)
-  - [Videos](#videos)
+	- [Articles](#articles)
+	- [Books](#books-1)
+	- [Courses](#courses)
+	- [Misc](#misc-1)
+	- [Mock interviews](#mock-interviews)
+	- [Q\&A](#qa)
+	- [Sites](#sites)
+	- [Videos](#videos)
 - [Languages and technologies](#languages-and-technologies)
-  - [Android](#android)
-  - [ASP.NET](#aspnet)
-  - [C#](#c)
-  - [Go](#go)
-  - [JavaScript](#javascript)
-  - [Node](#node)
-  - [PHP](#php)
-  - [Python](#python)
-  - [React](#react)
+	- [Android](#android)
+	- [ASP.NET](#aspnet)
+	- [C#](#c)
+	- [Go](#go)
+	- [JavaScript](#javascript)
+	- [Node](#node)
+	- [PHP](#php)
+	- [Python](#python)
+	- [React](#react)
 - [Other topics](#other-topics)
-  - [Crypto](#crypto)
-  - [Funny](#funny)
-  - [Maths](#maths)
-  - [Networking](#networking)
-  - [Operating systems](#operating-systems)
-  - [System design](#system-design)
+	- [Crypto](#crypto)
+	- [Funny](#funny)
+	- [Maths](#maths)
+	- [Networking](#networking)
+	- [Operating systems](#operating-systems)
+	- [System design](#system-design)
 - [Similar repos](#similar-repos)
 
 _Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine](https://archive.org/web/)._
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=olshansk/interview&type=Date)](https://star-history.com/#olshansk/interview&Date)
 
 ## Algorithms
 
@@ -164,6 +159,7 @@ _Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine
 - [Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
 - [IT-Career useful links](http://stereobooster.github.io/it-career)
 - [Resume helper](https://resumeworded.com/)
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anon, 10/day free) + State of ATS 2026 (738 employers, 704 portal-verified).
 
 ### Mock interviews
 
